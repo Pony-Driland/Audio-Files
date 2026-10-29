@@ -1,0 +1,22 @@
+{
+  "name": "pony-driland-audio-files",
+  "version": "1.0.0",
+  "description": "The Pony Driland audio files repository.",
+  "homepage": "https://github.com/Pony-Driland/Audio-Files#readme",
+  "author": {
+      "name": "JasminDreasond (Yasmin Seidel)",
+      "email": "tiny@pony.house",
+      "url": "https://github.com/JasminDreasond"
+  },
+  "bugs": {
+    "url": "https://github.com/Pony-Driland/Audio-Files/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pony-Driland/Audio-Files.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
